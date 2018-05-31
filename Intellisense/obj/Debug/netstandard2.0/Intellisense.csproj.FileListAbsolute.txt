@@ -1,0 +1,9 @@
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\bin\Debug\netstandard2.0\Intellisense.deps.json
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\bin\Debug\netstandard2.0\Intellisense.dll
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\bin\Debug\netstandard2.0\Intellisense.pdb
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\obj\Debug\netstandard2.0\Intellisense.csprojAssemblyReference.cache
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\obj\Debug\netstandard2.0\Intellisense.csproj.CoreCompileInputs.cache
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\obj\Debug\netstandard2.0\Intellisense.AssemblyInfoInputs.cache
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\obj\Debug\netstandard2.0\Intellisense.AssemblyInfo.cs
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\obj\Debug\netstandard2.0\Intellisense.dll
+C:\Users\Marsha\source\repos\Intellisense\Intellisense\obj\Debug\netstandard2.0\Intellisense.pdb
