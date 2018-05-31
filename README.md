@@ -1,5 +1,6 @@
 # Intellisense
 Simple intellisense code
+
 Init the finder class like that:
 ```
    var classNames = new String[] {
